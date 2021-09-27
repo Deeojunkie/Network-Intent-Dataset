@@ -1,0 +1,953 @@
+an essential part of bio-telemetry encompasses the transmission of data
+the telemetry was developed from ground up due to the spacecraft using a more modern set of computers than previous missions
+the telemetry subsystem is perhaps the most important subsystem because without it there could be no data return
+nissan intends to use telemetry to send information to a global data centre from every leaf sold
+there were around 1088 channels in 67 mini-packets assembled in the cassini telemetry dictionary
+the cassini spacecraft was capable of transmitting in several different telemetry formats
+describes the configuration model for istio s policy enforcement and telemetry mechanisms
+l7 telemetry and logging for http and grpc using prometheus
+the subsequent telemetry frame will indicate if the command was received
+attributes are used by istio s policy and telemetry features
+collects program telemetry information if opted-in to the microsoft customer experience improvement program
+install istio in your cluster with your desired telemetry addons
+intelligence derived from the interception and processing and analysis of foreign telemetry
+it provides links to live seismic data current telemetry status and general and detailed information on the liss
+intelligence information gathered from communications intelligence or electronics intelligence or telemetry intelligence
+describes the configuration model for istio s policy enforcement and telemetry mechanisms
+added tcp protocol support for v2 telemetry
+mixer is the istio component responsible for providing policy controls and telemetry collection
+this remote control unit can display vehicle telemetry when used with frsky radio modules
+click finish to create the telemetry service and run the mqtt client utility
+as with websphere mq you can view the status of a telemetry channel
+the pmon window is used to adjust the telemetry thresholds
+arista network telemetry application for splunk enterprise
+disables certain telemetry and tracking modules in microsoft office 2016
+the analytics template is used to dispatch runtime telemetry to apigee
+electric energy telemetering system of huizhou power supply branch
+last telemetric information received on 29 november 1990 on orbit no 5317
+within the framework of the project new telemetric networks are to be installed in priority catchment areas
+in contrast to the previous start treaty none of the limits in the new instrument require the use of telemetric information for monitoring
+to promote openness and transparency the parties will also conduct an annual exchange of telemetric information on up to five icbm or slbm launches as chosen by the party conducting the launches
+the telemetric data analysis and laboratory tests showed that the failure was caused by a short circuit in the solar array and it was decided that attempts to reactivate the spacecraft would be made periodically
+it was also possible to measure the instantaneous gravitational force by means of an accelerometric transducer placed near the box using telemetric data transmission
+the equipment consists of a telemetric transmitter placed outside the room of the centrifuge and receiver
+after only one day of operation magion 5 went out of control and ceased to transmit telemetric data because of a critical power shortage
+6 formats regarding launches of intercontinental ballistic missiles or submarine-launched ballistic missiles and the exchange of telemetric information
+the coding method mentioned in the paper has been adopted in osb-1 offshore telemetric data buoy net for 3 years
+someone intentionally got into our telemetric server and crashed the satellite
+it was also possible to measure the instantaneous gravitational force using an accelerometric transducer placed near the box with telemetric data transmission
+nevertheless an exchange of telemetric information on a set number of icbm and slbm launchers is planned to promote confidence-building and transparency
+traveling wave tube mini-sar atmospheric monitoring meteorological radar marine remote sensing field uav application system
+it had its own constellations of communications and remote sensing satellites
+application of remote sensing technology in river basin management in the philippines
+developing remote sensing and improving thematic mapping
+philippine initiatives in the application of remote sensing technology
+vaisala bolsters its global remote sensing support network
+an earth remote sensing satellite is being constructed in collaboration with egypt
+the gis development will use remote sensing and global positioning system technologies
+harnessing geographic information systems and remote sensing technologies for improved governance and agricultural productivity
+applications of microwave remote sensing for earth and space science
+uav photogrammetry and remote sensing monitoring gis project
+ecological monitoring natural resources mapping remote sensing and early warning systems
+research advances in simulating regional crop growth under water stress by remote sensing
+rs485 bus interface facilitating system expansion realizing telemetering and remote control high anti-electromagnetic interference capability
+software reuse can lower the price of software development in the hydrological telemetering system and it can promote the standardization and reliability of software development
+earthquake telemetering and engineering geophysical prospecting etc
+the accident of power plants when teleindication telemetering sequence of event recorder soe reaction agc control and dispatching automation equipment operation
+telemetering for consumption and demand
+a briefing of navigation mark telemetering and remote control system feasible functions of the system its communication network and route design etc are stated
+choosing function as you required 1 defensive function ovp otp olp 2 application function semiotic function power good power fail remote function telemetering function parallel function and etc 3 special function pec and ups
+ecg telemetering systems principle and design
+appendix includes the specifications and circuit diagrams of type xy-2 ecg radio telemetering system
+if used on a rotation axle a coupler is often required such as a rotary transformer slip ring or telemetering equipment to provide voltage and to obtain signal
+statistical analysis and application study of telemetering vibration data
+outside expertise was sought in remote-sensing methodology only
+he therefore stressed the need for funding for agriculture-related remote-sensing missions
+the only possibility left was to use satellite remote-sensing images
+the use of space-based and remote-sensing technologies is particularly important in preventing managing and mitigating natural disasters
+this includes any of the current meteorological communications remote-sensing or navigation satellites currently in orbit
+unfortunately developing countries often do not have access this very costly remote-sensing technology
+his government understood the important role that remote-sensing technologies could play in economic life
+the use of satellite and remote-sensing technologies is particularly important for reducing the adverse consequences of natural disasters
+with modern remote-sensing kit they can stealthily get all the details of warships he adds
+the hungarian regional support office made a series of presentations at the north university of baia mare romania on how to apply gis and remote-sensing technologies in managing natural disasters
+it was noted that new remote-sensing and radar technologies which may allow estimation of changes in biomass are emerging and could become available in the future for routine measurements in developing countries
+calibration and validation of remote-sensing results are essential
+satellite-based remote-sensing instruments were appropriate for studying and managing resources in such areas
+timely delivery of relevant remotely sensed data to decision makers was also needed
+there is also increasing sophistication reliability and availability of information products derived from remotely sensed data
+ongoing research and development will lead to improvements in the measurement of several remotely sensed parameters
+a rapporteur reports to the commission and wmo members on issues relating to requirements for access to and applications of remotely sensed ocean data
+the integrated use of remotely sensed data has been conclusively demonstrated to improve reporting on agriculture statistics in pakistan
+they are low cost not very prone to error propagation and well-suited to implementation on remotely sensed time-series data covering large areas
+the third presentation demonstrated how remotely sensed data and gis could be used for alpine cartography
+in order to solve this problem this paper proposes a split window-based method for unsupervised change detection in multichannel remotely sensed images
+there will be a significant growth in the development of access to and training in the use of remotely sensed ocean data through such efforts in the coming years
+the workshop participants learned of the wide availability of remotely sensed images with various spatial spectral and temporal resolutions
+there was thus a need to continuously demonstrate to decision makers the cost-benefit of using remotely sensed data and other space-based technologies
+space-time characterization of soil moisture from passive microwave remotely sensed imagery and ancillary data
+the acquisition of remotely sensed information is critical to the successful execution of these programmes
+in particular special emphasis was placed on further development and the operational use of a remote sensing-based system for crop condition assessment and yield forecasting
+the first special session entitled mountains under review experience exchange on remote sensing-based monitoring of natural resources in mountain regions
+the incumbent will continue to undertake assessment and follow-up global positioning system training as well as training in the usefulness of gis and remote sensing-based technologies for the operation s civilian and military staff
+a presentation by india on its remote sensing-based pilot project at the village level was made during the symposium
+mountains under review experience exchange on remote sensing-based monitoring of natural resources in mountain regions
+pilot studies for remote sensing-based assessment of land degradation based on the analysis of long-term series of ndvi data have been finalized in china and kenya in collaboration with isric
+a case study on remote sensing-based hydrological modelling for early warning of floods in the awash river basin in ethiopia was presented to participants
+following two microinsurance pilots in china and ethiopia in 2009 the facility is developing an innovative remote sensing-based weather index insurance approach for countries with limited weather infrastructure
+the initiative also provides training to harmonize remote sensing-based forest classification build skills for two- and three-dimensional data visualization
+the project is also providing training for national professionals to harmonize remote sensing-based forest classification
+the first presentation was on remote sensing-based methods for the inventory of wood biomass
+the national drinking water mission and the natural resources information system which furnished remote sensing images and remote sensing-based information respectively
+techniques should be developed to identify groundwater resources by means of geological mineral remote sensing exploration
+the work took the form of workshops on the following subjects space telecommunications remote sensing and exploration astrophysics and astronomy and space industries
+apply to public security monitoring power inspection search and rescue environmental law enforcement remote sensing mapping life exploration etc
+in geological and mineral prospecting correct selection of geophysical exploration remote sensing geochemical exploration rock and mineral analysis
+it is important to take into account the research findings in fields such as marine mining and research sampling technologies and remote sensing for the exploration of the seabed
+in the following areas using remote sensing for the exploration of desert zones
+most exploration work is likely to be non-invasive relying primarily on remote sensing and standard sampling techniques
+the session also featured a presentation on the use of remote sensing data for water resources exploration in arid regions
+remote sensing in the field of mining would result in significant savings in exploration campaigns
+analysis of remote sensing data for use in the exploration and utilization of natural resources and in environmental studies
+in tele-epidemiology the spectral spatial and temporal resolutions of satellite-based remote sensing data products should be improved to allow better exploration of risk factors and health hazards beyond current capabilities
+methods of exploration of gold diamond and hydrocarbons fields with use of remote sensing data
+in that regard it is essential that frequencies allocated to passive services of advanced meteorological and earth exploration satellite systems for the remote sensing of ocean temperatures whose variations can be linked to seismic activity remain free of interference
+fao uses remote sensing survey to track changes
+the updated findings of a global remote sensing survey show that total forest area as of 2010 is 3 89 billion hectares or 30 percent of the total land area of the earth
+related linksglobal forest resources assessment 2010global remote sensing survey of forests at faofao s forestry department examining satellite imagery of forested areas at fao headquarters in rome
+we hold a leading position in the airborne and remote sensing survey and design market in the prc
+we also hold a leading position in the bridge tunnel and electrified railway survey and design markets and the airborne and remote sensing survey and design market in the prc
+the fao global remote sensing survey is expected to be an important tool for the evaluation of forest dynamics in countries in the ece region
+ceo will become a central technology supporting fao s global remote sensing survey
+an update to a global remote sensing survey of forests pdf webcastinternational day of forests ceremony and seminar
+survey and design the latter part of the site needs to add in the remote sensing survey has allowed geologists to better avoid the omission
+the remote sensing survey and preparations for the expert consultation on the global forest resources assessment 2015
+real-time state streaming for network telemetry and analytics a modern approach to replace legacy polling per device
+streaming telemetry and more included as standard within the 7130 series
+analytics reducing operating costs and time-to-resolution with netdb real-time state-streaming as well as the cloudvision analytics engine and telemetry apps
+they are also building a telemetry processing/ data streaming engine xray that is doing some basic complex event processing
+to support streaming text oriented messaging protocol message queuing telemetry transport and other protocols
+state streaming - consolidates continuous awareness of the fine-grain state and telemetry of any cloud network
+algomatch is also the enabler for increased network telemetry using sflow to sample traffic at hundreds of gigabits per second per system
+flexible pipeline for programmable features including algorithmic acls and inband network telemetry
+searches and add-ons for visualizing this network telemetry data
+an improved ami code being suitable for telemetry system is proposed
+a separate telemetry system is required to track receive and record this data
+ab dynamics developed the trackfi wireless telemetry system
+and the third group was working on the telemetry system
+flight computer and telemetry system are all working correctly
+real-time data transmitted to surface through e-line or mud-pulse telemetry system
+deliver to the user manner 36 channels sensor telemetry system
+the oca has onboard video cameras and this data is transmitted via a telemetry system that operates in the upper s-band range
+luna 1 contained radio equipment including a tracking transmitter and telemetry system
+this telemetrically regulated blood sampling allows the study of selective effects of hypergravity during centrifugation
+allowing illumination light to telecentrically enter the reflective liquid crystal device 21
+679/2016 gdpr of users who consult the site and those who interact with the web services accessed telematically from the address
+this paper presents a new algorithm used to demodulate high code rate dqpsk telemetry signal by digital frequency measurement
+it was the last communication from the crew and the last telemetry signal received in mission control
+the aux line is for the telemetry signal
+broadcasting status listening for telemetry signal
+the telemetry data volume cannot exceed 125 bytes/sec
+orbital also analyzes telemetry data from each launch to validate pegasus s performance
+it managed to hold session received a new telemetry data which shows that all the parameters of onboard vehicle systems in normal
+this screen is used to read the raw telemetry data in hexadecimal format as it is being received
+inertial measurement unit imu radar and ground-based telemetry data were fed into an early digital computer responsible for displaying data and providing automatic attitude control capability
+you can collect telemetry data about istio using prometheus and then use prometheus s http api to query that data
+the following section of the screen scrolls the received telemetry data
+the istio component responsible for enforcing access control and usage policies across the service mesh and collecting telemetry data from envoy and other services learn more about mixer
+views searches and add-ons for visualizing this network telemetry data
+the mpcs also called the gcs is the operational control center of the uav system where video command and telemetry data from the air vehicle are processed and displayed
+hamilton went up in my estimation until the telemetry leak and the drawn-out contract issues which the bbc seem very keen to bang
+i have to spend more time studying the telemetry try to understand the problem as precisely as possible
+processor speed isn t really the issue with a telemetry system
+it just seems obvious to me that your mobile device should provide real-time telemetry of your health
+we ve been helped by developments including the introduction of telemetry in ambulances allowing ecgs to be wired ahead last year we sent 65 patients
+then the team told me the telemetry showed i had no braking on the front right
+it never happened before so we were totally black with no telemetry no information
+i for one can not understand the furore over the telemetry tweet
+i hated having to scroll to a different page to see telemetry
+he braked at the right place the telemetry said so
+once you use mah telemetry you will never want to go backwards
+through this long journey the crew has a great ally the telemetry
+what are the pros and cons of a telemetry technician career
+telemetry radio 3dr telemetry 900mhz 100mw transceiver with range of a few km at 57 600 baud
+it is also important to note that the f12e including its telemetry feature will only work with devo receivers and flight controllers
+not questions asked utterly reliable excellent telemetry and cheap
+how will you gain east-west application telemetry
+was protected but i find it super interesting where i can see the telemetry data now on how many times the document has been used
+call them and arrange to send it in with telemetry files
+he is responsible for all the software that picks up the ibex telemetry and turns it into products that are usable by the science team
+the staff and skills required to provide advanced telemetry and personalized correlation with the addition of business content
+the lower surface of the torus-shaped sensory ring provided mounting space for sensors and telemetry antennas
+how are you determining the speed do you use telemetry or radar
+i went into the shack and checked the telemetry perfect totally error free
+see the listing for the axi 5330/20 3d extreme + telemetry
+in the zip file there are two folders bf and telemetry
+he is placed on continuous telemetry monitoring and his rhythm is monitored for signs of proper pacemaker functioning
+he is placed on continuous telemetry monitoring and his rhythm is monitored for signs of proper pacemaker functioning
+i did find an issue when using it with a spektrum tm1000 telemetry module
+i think a firewall helps block some of the telemetry that gets by settings
+it appears to be referencing telemetry settings
+they should be observed for at least 23 hours on telemetry as they are at risk of developing dysrhythmias and cardiogenic shock
+and yes the telemetry file will be in the non encrypted folder
+one of the most useful features of frsky radio would be telemetry
+further the marketing and the use of biomedical telemetry devices operating under this paragraph shall be limited to hospitals
+todays priority queue drills into the yang data modeling language and telemetry
+he trace gas orbiter recorded full telemetry information from schiaparelli during the landing attempt and that was to be sent back
+in the controller unfortunately next flights i will use it to receive the telemetry
+the taranis is famous for its telemetry capabilities ideal for checking signal strength and battery levels
+the barcelona-based team said the telemetry is available to any qualified technician with desires to analyse it
+water consent holders were now mainly using telemetry to send electronic data daily through to the council
+i also use dws lite great for stopping telemetry microsoft are really pushing these updates down our throats
+the designator is often used in radio link or scada telemetry systems
+what are the pros and cons of a telemetry technician career
+were not getting away from this thing sally odyssey telemetry shows structural open stress
+in contrast to telematics telemetry is the process of measuring parameters from the location of source to the location of
+the system of claim 1 wherein the vehicle telemetry application development means enables application developers to invoke the plurality of services and computing algorithms
+if you can post a video with the telemetry hud on it s kind hard to identify problems on the profiler telemetry
+my telemetry files also did not have any data in them i
+this is the traxxas gps speed telemetry module for use with tqi radio systems
+the use of carbon fibre electronics and telemetry like the race efis is really cool
+i started to use telemetry in rfactor and gtr2
+ur ios and android sdks will now automatically relay all the telemetry data to estimote cloud where you can conveniently access it through the beacon dashboard
+customers can now displays for record radar and telemetry data video camera sources and audio surces
+boeing and the air force even will now begin analyzing the terabytes of telemetry data transmitted by the x-51a during flight
+brian you are absolutely right no telemetry over radio if both connected via usb
+the craft climbed to 3000 feet and with all telemetry in the green continued the climb
+the biggest headache as been telemetry from the naze via soft serial 1
+telemetry compatible with any dsmx or dsm2 receiver flight log data only available with data
+at every site you want an rtu remote telemetry unit that can support your expected growth over a reasonable period of time
+i have assembled in prototype form a rocket ignition and telemetry system from parts ordered from sparkfun
+while tice couldn t publicly disclose details media interviews revealed that his specialty was telemetry and sensors and that his disclosure would be far more shocking than the ny times
+there will be real-time real life style  telemetry data showing graphs allowing you to save any lap graph and reload/compare
+not only that but they use the telemetry from santa s sleigh to track his location
+high-speed wired-pipe telemetry allows bidirectional data flow along the drill string
+as taibak programs geordi s visor more telemetry information appears an eerie music cue used here will re-occur whenever we go to
+in the second video adam shows the hackrf portapack and lna4all receiving a telemetry signal on 442 mhz
+heart rate monitoring is available with grip sensors or wireless telemetry
+consensus painted walls and airspace with arcane telemetry
+it features ibus output telemetry and diversity antennae that are replaceable
+in this report we also include a new telemetry dataset that shows the most popular wordpress and their distribution amongst the sample set
+in circulation watson said microsoft often boasts of the value of the telemetry to its designers developers and security engineers and with good reason
+the station integrates angi fueling algorithms and on-board locomotive telemetry to help ensure accurate and full target fueling l
+aboutguive mirfendereski is vp and gc at virtual telemetry corporation since 2004 and is the artisan doing business as guy vanderesk trapworks com
+the patient required telemetry monitoring and hydration for 24 hours
+the privacy option in settings let s administrators choose one of three telemetry levels basic enhanced and full
+these arrays are designed for compatibility with pre-programmed microprocessors wireless telemetry or sensor feedback loops to provide active control
+remote sensing technique has being widely used in drought inspection
+remote sensing technique has been widely applied in land use and land cover
+thermal infrared remote sensing technique is one of the approaches to the geothermal resource survey
+in the past year satellite remote sensing technique on earthquake impending prediction has developed
+satellite remote sensing technique can play an important role in active fault exploration in urban area
+the airborne remote sensing technique is one of important means in the survey of city land and resources
+satellite remote sensing technique plays an important role during the early stage of city active fault exploration
+developmental prospects of the remote sensing technique in marine environment pollution monitoring are also discussed
+these results suggested that it was feasible to monitor and predict main grain quality in rice by using remote sensing technique
+remote sensing technique has superiority in drought monitoring in last years many researches in this area have been developed in china
+objective to identify snail habitats and monitor the changes by combining remote sensing technique with the ground-based ecological data
+the methods to obtain the tree information by aerial remote sensing technique and locate the position of  diseased  trees by portable gps were studied
+currently as a efficient and rapid remote sensing technique lidar  light detection and ranging has been applied to monitor some atmospheric parameters
+using remote sensing technique will effectively acquire large-scale snow cover information and make up the deficiency of earth observing material in space
+the method for combining remote sensing technique gis technique and forest continuous inventory technique has great potentiality in forest resource monitoring
+the appearance of commercial high-resolution satellite data supplies new resources for people to study crown structure of a tree by using remote sensing technique
+the feature of photographing color infrared film using remote sensing technique is low cost strong penetrability clear picture element and strong third dimension
+the extraction of earthquake disaster information from remote sensing technique requires processing high spatial resolution remote sensing data with large quantities
+but the unmanned aerial vehicle remote sensing technique by high superiority and so on resolution data fast processing to place real-time investigation low end is widely applied
+based on modis ndvi this paper studied the variation trend of vegetation index in the years of 2000 to 2004 in ningxia area using quantitative remote sensing technique and slope method
+based on the backgrounds of imaging guidance remote sensing technique and information fusion technique we have studied the methods of the remote sensing image processing in this paper
+with the increasingly extensive and in-depth application of quantitative synthetic aperture radar  sar  images sar calibration became a necessary technique in modern spaceborne sar remote sensing
+compared with traditional remote sensing some new technique and method must be developed for hyperspectral remote sensing data processing and object discerning
+satellite remote sensing monitoring technique is characterized for its rich information and direct macro and exact vision and therefore is an effective tool for sandy land monitoring
+this dissertation has studied the segmentation method of remote sensing image based on multiscale edge based on wavelet invariant moment and the edge detection technique of remote sensing image
+having experienced the ways of field survey on the spot and eyed-interpretation on optical image the survey technique on soil erosion entered a new stage of using digital remote sensing imagery
+the technique of remote sensing isn effective tool for us to exploring and exploiting the natural resources and monitoring their dynamical variation in the zone
+developmental prospects of the remote sensing technique in marine environment pollution monitoring are also discussed
+these results suggested that it was feasible to monitor and predict main grain quality in rice by using remote sensing technique
+the satellite remote sensing technique plays a significant role in the preliminary phase of city faulted structure telemetry
+nowadays remote sensing technique has become the main method for monitoring biodiversity on regional and global scale
+remote sensing technique can completely interpret and recognize the structual characteristic of active faults on macroscopic view
+development of remote sensing technique has strongly related with the studies of spectral features of ground objects
+it is also one of effect methods to drawing and detecting urban afforestation information by making use of remote sensing technique
+satellite remote sensing technique can play an important role in active fault exploration
+based on the data of modis and remote sensing technique the sugarcane growth was monitored by the method of nd vi
+a new nonlinear mixed spectral model and its resolving method in vegetation classification made with hyperspectral remote sensing technique
+study of oil and gas pools and metallogenic relation of sandstone-type uranium deposits by remote sensing technique
+application of high resolution remote sensing technique to exploration of active fault of hangzhou and its surroundings
+study and application on land desertification of the western flatland of hebei province using satellite remote sensing technique
+application of space remote sensing collecting method and geological remote sensing technique in mineral prospecting for vegetated terrain
+application of updated satellite remote sensing technique to the international exploration for seafloor natural gas hydrate
+the feasibility analysis of predicting chemical fertilizer market with satellite remote sensing technique
+applications of the remote sensing technique in eco-environmental division in qinghai province
+talking about the application of the remote sensing technique in the geological environment investigation of the mining areas
+investigation and supervision of water and soil losing with the remote sensing technique in qinghuangdao city
+the application of remote sensing technique to the integrated investigation of marine geo-environment in coastal zones
+satellite remote sensing technique can play an important role in active fault exploration
+he has been engaged in infrared acquisition and multispectral remote sensing technique for more than 40 years
+developmental prospects of the remote sensing technique in marine environment pollution monitoring are also discussed
+geological anomaly characteristic of southeast guizhou and remote sensing prospecting model for the au deposits
+on 2 june toyota will launch an exciting new telemetry recording device called the sports drive logger
+on the openmoko i m using gprs for telemetry and commands and gps for navigation
+the oss sdks allow you to implement and collect telemetry from a vast variety of applications
+the sdks collect telemetry automatically but you can easily extend the types of data collected by instantiating and using
+this way you can inject custom telemetry such as events metrics etc
+you can install the sdk and provide the appropriate instrumentation keys to start collecting application telemetry
+because these various resources can be managed under a single umbrella the telemetry data and metrics that can be derived from the continuum platform will give businesses visibility
+color oled top mounted display for basic telemetry data brand new gimbals with improved feel 4 bearings
+frsky has an excellent reputation for building high quality highly reliable telemetry systems
+for many of us race fans a screen streaming telemetry data can look much like an ekg monitor
+a temperature alert is a message normally sent from a remote telemetry unit rtu monitoring an analog temperature sensor or from a master station
+a dps remote telemetry unit real-time analog gauge remote telemetry units rtus  
+a remote telemetry unit rtu that supports dial-up connectivity would be a good solution for this
+even before i had the telemetry it was a pretty simple matter to figure out how many flights i could
+all jeti receivers have telemetry for receiver voltage and received signal strength
+useful for example to use telemetry from an airspeed indicator to adjust gyro gain so you can have the optimum gyro
+all jeti receivers have telemetry for receiver voltage and received signal strength
+a quick check of the telemetry showed that it had stopped at about 12km altitude which was a very strong
+these items usually trigger some quests where you have to kill several enemies with a telemetry effect on and reward you with 200 points per turn
+your next step is to get 100 hand cannon kills with a primary telemetry consumable active the last step is to receive 10 weapon parts from dismantling
+telemetry intelligence telint is sometimes used to indicate data relayed by weapons during tests
+still light years better than w10 or the other recently telemetry patched microsoft oses hello buck i agree with your comments about
+according to kaspersky s telemetry danti has also been actively hitting targets in kazakhstan kyrgyzstan uzbekistan
+according to kaspersky s telemetry danti has also been actively hitting targets in kazakhstan kyrgyzstan uzbekistan
+makes use of telemetry  of all the scientists who are working in this area
+he also makes use of telemetry in studying physiological activity in brains and other organs
+these include telephone wireless network computer and telemetry even communication through television and radio can count
+the t2 telemetry optional upgrade adds the t2 telemetry system into the vehicle
+maybe the telemetry has told you things a bit wrong
+toyota will launch an exciting new telemetry recording device called the sports drive logger
+in addition drivers can use gt6s gps visualizer function to compare their telemetry with that of professional drivers
+what a monitor technician is because hospitals will also use the job titles telemetry technician cardiac monitor technician 12-lead ekg tech and more
+due to its low divergence the laser is used in telemetry to measure at long range
+the telemetry information is remembered in a circular buffer in the profiler agent memory
+by default the telemetry buffer is limited to store approximately 1 hour of recent telemetry data
+the help of the telemetry limit option you can customize the time period within which the telemetry data is being stored
+also the longer the buffer the more time it takes to retrieve the telemetry information from the profiler agent when you connect to a long running profiled application
+specify how often telemetry information is obtained
+collect thread stack and status information shown in thread view as well as in other telemetry views
+do not collect exception telemetry
+the exception telemetry helps discovering performance issues and logic errors
+also featuring a lcd telemetry display on the 2 4ghz transmitter
+finally we also routed the telemetry messages from all those cellular satellite and lprn-based mobile devices
+once nomad receives the signal it will dump the current telemetry information to the agent s stderr
+this telemetry information can be used for debugging or otherwise getting a better view
+telemetry information can be streamed to both statsite as well as statsd
+when telemetry is being streamed to statsite or statsd interval is defined to be their flush
+it can be changed by the changing the value of the collectioninterval key in the telemetry configuration block
+the three digit led display can be used to show telemetry data or to set up the wheel tuning options
+includes a vehicle telematics simulator leverages event hubs for ingesting millions of simulated vehicle telemetry events into azure then uses stream analytics for gaining real-time insights on vehicle health
+excellence employee of the year winner jessie koerner rn medical and telemetry renown south meadows jessie is always willing to help when needed
+telemetry from voyager neptune flyby received by vla
+the cardiology telemetry rn may perform stress test evaluations for heart disease cardiac and vascular monitoring
+becoming a cardiac telemetry rn begins with obtaining rn certification either as an associates degree or a bachelors
+experienced cardiology telemetry rns can expect to earn a median nurse salary of over $940008
+therein lays the need for the new telemetry technology
+it is interesting to speculate how he would have utilized the telemetry and computer data available to todays racers
+the flysky fs-i6x is telemetry capable has a three position switch three two position switches two potentiometers
+the next level in precise control while offering the added benefit of integrated telemetry
+just uses the telemetry file from the st10+
+it displays the drone track and can create videos of telemetry tracking
+it is used to define home range behavior and ecology of wildlife radio telemetry equipment contains of transmitter cable antenna and receiver
+i need very small radio telemetry collar /transmitter/ because my study objective is very small
+i think i am a first young man who used radio telemetry equipment to study gobi desert small mammal in mongolia
+for an example of a custom touchscreen controller with zigbee see my robot telemetry controller
+center has rotations that offer diverse medical care and exposure to both general medicine and telemetry patients with a team of 3 residents
+wireless telemetry is enabled for polar heart straps to monitor heart rate on the console
+backlit lcd display integrated speakers 3-speed fan pulse grip heart monitoring and telemetry enabled and a water bottle holder moremaximum user weight capacity limit 300 lbs
+we can acquire evidence from electronic equipment such as remote sensing surveying and environmental sampling
+geographical information systems and the associated field of remote sensing greatly aid us in such tasks
+the course is equally split between both parts gis and remote sensing with four core module introducing the theory and practice of both subject
+remote sensing the analysis and interpretation of aerial and satellite imagery has transformed the manner
+additional optional modules in programming spatial databases and remote sensing of the subsurface are also available to students
+to provide an understanding of geographical information systems and remote sensing the technology involved and its applications for specific investigations
+two of these cover the theoretical concepts underpinning gis and remote sensing
+the msc in gis and remote sensing is first and foremost a course to skill students for work in a wide range
+traceable only with many soil boring tests or perhaps sophisticated remote sensing
+it is quite clear that the publishing of this comment is an attempt by remote sensing to cover their asses embarrassed by having let a non-orthodox view slip
+remote sensing has been much diminished as a journal of science
+at the university of exeter is studying the ecology of grey seals using remote sensing techniques
+sunglint can be a nuisance in remote sensing as the brightness can hide many features
+this is in contrast to remote sensing investigations which measure properties of jupiter from a distance
+with remote sensing capabilities farmers are getting smarter about resource allocation
+remote sensing is the best kind
+the key to a truly good remote sensing operation is for the sensor to be performing a useful and legal function
+work in traditional surveying practices digital mapping and global positioning systems and remote sensing
+remote sensing techniques provide observations of the physical environment from instruments mounted on aircraft or satellites
+nasa the usgs and other space agencies have made remote sensing data openly available
+gps loggers and up to several years using light-based geolocation while satellite remote sensing systems at resolutions of km are capable of characterizing the millions of km2
+the highest priority targets of the remote sensing program will be vehicles with very high emissions
+the relatively small capital investment for remote sensing equipment is in itself a major improvement over stationary inspection facilities
+remote sensing activity can be adjusted to accommodate the capacity of the inspection and diagnostic centers
+the remote sensing and inspection diagnostic functions can be carried out by public agencies or private contractors
+i recently returned from china where i participated in a series of remote sensing workshops
+the nir community newsroom asd will be joining other remote sensing and industry professionals july 23 28th at the 2017 ieee international geoscience 
+the remote sensing feedback loop maintains a constant voltage
+satellite remote sensing datasets can provide real-time detection of urban area change
+once you use mah telemetry you will never want to go backwards
+just an idea for you you can get all the telemetry features that you will reasonably need
+it just won t pass through telemetry from the brain unit but that s why you get the jlog
+spektrum will soon have telemetry recievers for full size helis
+with jeti telemetry isn t only useful when flying
+you can actually review telemetry after flights right on the transmitter
+spektrum telemetry logging is useless
+i can also put the telemetry on the screen in the order i want
+up not really needed until late game weapon telemetry a weapon telemetry provides an exp buff certain weapons xur
+were however installed in some later versions to provide telemetry about the locations of the impacts of the bombs aware
+5-channel rc system with a superb range of receivers and telemetry add-ons look no further the mz-10 is a 5-channel transmitter
+property back in the car we soon got telemetry again as we got a bit closer so once the map
+storage applications detected in q4 2016 versus q12017 our telemetry also show an increase for each individual cloud storage
+throttle and even gear selection when i tcomes to telemetry analysis we shouldn t isolate one input trace without looking
+forward a familiar fiberglass dash frames sedateautometer telemetry andalocking carroll shelby-autographed glovebox under
+and x8r rx l bought the pixhawk kit including 915 mhz telemetry andanosd board the ublox m8n gps compass unit power module
+with their business needs lmpartner spent 2015 building telemetry andanaly ticsintoour prm solution said dave r taylor
+its beacon alternatively on its main and backupchannels telemetry andbeacondatafrom f-1 contain critical information about the
+two traces cathodic anodic2 telemetry and commercial software all newer cl systems are equipped
+branch with information about the lem extravehicular suit telemetry and communications system no line of sight los
+25 305 toolong price $30 000 00 3 year 1 year endpoint telemetry and compliance license subscription for up to 20 000 clients
+per hour in 0 1 mph increments hr monitoring polar telemary and contact heart rate system dimensions 34 by 60 by
+made across the face of the company the inclusion of telemetry and atalanaysis roles in most teams data-driven development
+with a full-range 9-channel receiver that has built-in telemetry and diversity antennas programming couldn t be easier just
+telemetry which measures and reports information remotely from a car to its designer is a key part of f1 racing
+it provides links to live seismic data current telemetry status and general and detailed information on the liss
+the construction of an slbm test site with underwater communication and observation facilities and land-based missile tracking and telemetry facilities was finished in the early 1980s
+we should be receiving telemetry now sir
+intelligence information gathered from communications intelligence or electronics intelligence or telemetry intelligence
+the telemetry system is a data logger that records data over several days
+telemetry is common and can be used to remotely monitor the system status
+agriculture and resources inventory surveys through aerospace remote sensing
+a discussion on the hydrogeophysical remote sensing combined exploration scheme
+the article introduces briefly several actual projects completed in recent years concerned with the application of remote sensing on planned railway geological surveying and illustrates the function of applying remote sensing technology
+finally it is believed that remote sensing technology can be widely used in engineering surveying especially in the development of west china a potential big market
+in view of the present application of remote sensing technology in engineering siting and route selection in china the necessity and efficiency of that is addressed in this paper
+drip patient dd is transferred back to a general telemetry unit for monitoring telemetry monitoring shows no additional episodes of ventricular fibrillation and patient dd s overall status
+is programmed to deliver atp first followed by a defibrillation shock if needed telemetry monitoring notes that patient u s rhythm is his usual atrial fibrillation at
+abruptly to report that his icd just fired a check of the telemetry record shows that the icd has fired the physician is notified interrogation of
+capabilities can be complex consider these situations patient v returns to the telemetry unit following implantation of a dual-chamber icd his upper rate limit for pacing is
+programmed for both atp and a high-energy defibrillation shock patient v s rhythm on telemetry when he first returns to the unit is sinus rhythm at a rate of 60
+defibrillation shock on his admission it is noted that his ecg rhythm on telemetry monitoring shows wide and bizarre-appearing qrs complexes at a rate of 66 bpm careful
+rate limit for rate responsiveness of 100 bpm later in the evening on telemetry monitoring personnel note that patient w s qrs complexes have changed deflection now
+shocks about 3 hours apart in the late afternoon he is placed on continuous telemetry monitoring the monitor shows frequent runs of nonsustained vt when his icd is
+benefit outweighs the risk the patient should be admitted to an inpatient setting with telemetry monitoring for the initiation of therapy procainamide procainamide is a class ia
+300 mg every 8 hours propafenone should be initiated in an inpatient setting with telemetry monitoring 35 86 87 cautions use of propafenone is contraindicated in conduction disorder
+the withdrawal of his medications will provoke episodes of his arrhythmia and frequently calls the telemetry desk to verify that his heart rhythm is normal patient bb s cardiac status
+presence of reversible ischemia are often indicated patient cc is admitted to a telemetry unit for continuous telemetry monitoring serial cardiac enzymes obtained at 8-hour intervals are negative
+are often indicated patient cc is admitted to a telemetry unit for continuous telemetry monitoring serial cardiac enzymes obtained at 8-hour intervals are negative serum electrolytes are
+while the patient is still sedated patient cc is returned to the telemetry unit his vital signs are monitored frequently and the generator site under his
+monitored for signs of bleeding or hematoma formation patient cc is placed on continuous telemetry monitoring and remains in the hospital for an additional 48 hours during this time
+his vital signs are stable and he develops no complications from the procedures telemetry monitoring shows that he has occasional pvcs and some runs of monomorphic vt that are
+or a congestive heart failure exacerbation patient dd is admitted to an inpatient telemetry monitoring unit for further assessment evaluation and management the 12-lead ecg shows
+patient dd s icd delivers a high-energy shock the energy spike is noted on telemetry the staff in patient dd s room note seizure-like movement of his body
+following discontinuation of his lidocaine drip patient dd is transferred back to a general telemetry unit for monitoring telemetry monitoring shows no additional episodes of ventricular fibrillation and
+feat of endurance and as the minutes tick by with expressionless engineers staring at telemetry screens the pandemonium of the racetrack is reduced to a quiet patter a
+hard to avoid all jailbreak detection methodologies in the future and lookout with telemetry from 100 million mobile devices has the most insight about advanced mobile threats globally
+at least since 2015 predominantly targeting indian government organizations according to kaspersky s telemetry danti has also been actively hitting targets in kazakhstan kyrgyzstan uzbekistan
+to gain better insight into performance and security issues by digging through all the network telemetry that s now available in announcing the deal today nokia isn t saying much
+the attention of scientists to electrical exploration of the brain makes use of telemetry of all the scientists who are working in this area however dr
+with special attention to effects on social behavior he also makes use of telemetry in studying physiological activity in brains and other organs i do not
+different types of communication methods these include telephone wireless network computer and telemetry even communication through television and radio can count with the ever-converging lines of
+simplified answer to your question radio frequency signals tv radio telemetry etc transmitted from communications satellites are said to be polarised either
+demand planning software which included looking at how we could tap into our valuable telemetry data and use this to maintain the inventories at partner sites in june
+charitable activities during 2010 our patuxent river office in lexington park and telemetry and data systems business unit in california md are focused on service providing
+drip patient dd is transferred back to a general telemetry unit for monitoring telemetry monitoring shows no additional episodes of ventricular fibrillation and patient dd s overall status
+bus as well as inputs wired directly to the box the t2 telemetry optional upgrade adds the t2 telemetry system into the vehicle the l180 with the
+wired directly to the box the t2 telemetry optional upgrade adds the t2 telemetry system into the vehicle the l180 with the t2 upgrade can receive messages from
+empty car-moves may suffer a piracy problem while they will of course have telemetry so they can send video of the pirate attack in the end sophisticated pirates
+20 minutes or over 40 minutes with the return trip i know our telemetry is better than in those days but there are sure to be unexpected things that
+and problems may occur maybe it is not quite as predicted maybe the telemetry has told you things a bit wrong so you have to communicate this back
+of the uses for a 3 watt solar module are charging 12 volt batteries for telemetry fence chargers automatic feeders electric gates or for battery maintenance this
+black premium gaffer s tape i have no osd because a battery alarm via telemetry  futaba system external voltage sensoring is enough for me special considerations
+a cardiac pacemaker b discontinue all medications and monitor the patient with continuous telemetry c arrange for an immediate echocardiogram and consultation with a cardiac surgeon regarding possible
+telemetry analytics super computers have moved out of the lab and are now parked in
+in ventricular fibrillation patient f is ambulating in the halls when the central telemetry monitoring station notes that he has gone into monomorphic vt patient f remains alert
+sees that he is having frequent long runs of nonsustained vt the telemetry station notifies the nurse that patient i has gone into vt just as staff
+the patient s norm consider the following patient situations the central telemetry station notifies the staff that patient k appears to have gone into ventricular fibrillation
+distress he voices is his disappointment in the team s performance the telemetry desk informs personnel that the monitor shows he is still in ventricular fibrillation what
+to check the patient s monitor leads and re-attach any disconnected ones the telemetry station notifies the staff that patient l has gone into a funny-looking vt
+the therapist stops the chest physical therapy to see what they wanted the telemetry desk notifies the staff that the patient has resumed a normal rhythm from
+management some indications of abnormal or inadequate function may be noted by telemetry monitoring and observation of the patient the most obvious indications are failure to deliver
+of 180 190 bpm if the icd is functioning properly the telemetry monitor would show a group of pacing stimuli delivered rapidly the spikes would be
+patient s normal rhythm if atp is not effective and vt continues the telemetry monitor should show a sharp spike on the screen indicating the delivery of a
+intervention no evidence of pacing spikes of or defibrillation shock would be present on telemetry monitoring delivery of inappropriate therapy may occur as a result of sensing problems or
+sony playstation 3 on 2 june toyota will launch an exciting new telemetry recording device called the sports drive logger the system is designed to gather
+technique in addition drivers can use gt6s gps visualizer function to compare their telemetry with that of professional drivers the sports drive logger will only available in
+the ports tab to set uart2 to be used for the osd and enable msp telemetry on that port now you will be able to connect to cleanflight at the
+provide motor control and rudder control on the openmoko i m using gprs for telemetry and commands and gps for navigation i got the openmoko last week
+you too in refining your app and pro-actively resolving any performance issues capturing telemetry data the first step in optimisation must be setting your benchmark and in
+limited to the microsoft stack the oss sdks allow you to implement and collect telemetry from a vast variety of applications node js javascript python ruby
+python ruby net java etc the sdks collect telemetry automatically but you can easily extend the types of data collected by instantiating and using
+collected by instantiating and using a telemetryclient this way you can inject custom telemetry such as events metrics etc to take it a step further
+you can install the sdk and provide the appropriate instrumentation keys to start collecting application telemetry alternatively if your solution is already deployed on the azure appservice you
+and also to allow you to create truly tailored dashboards that only collect the necessary telemetry there is after all a cost associated with the service so it
+because these various resources can be managed under a single umbrella the telemetry data and metrics that can be derived from the continuum platform will give businesses visibility
+moving from france was as an electronics engineer with convair specializing in telecommunications telemetry and radar in 1959 he was in charge of an electromagnetic research group
+new features for the taranis e color oled top mounted display for basic telemetry data brand new gimbals with improved feel 4 bearings new navigation via
+affordable radio frsky has an excellent reputation for building high quality highly reliable telemetry systems the taranis takes everything they have learned and pushes it to the next
+ecoboost v6 race engine for many of us race fans a screen streaming telemetry data can look much like an ekg monitor to the roush yates engines calibration
+and it industries an rtu remote terminal unit or remote telemetry unit is a remote device that monitors and reports events occurring at a
+message generation a temperature alert is a message normally sent from a remote telemetry unit rtu monitoring an analog temperature sensor or from a master station
+you can respond to the problem adobe flash required a dps remote telemetry unit real-time analog gauge remote telemetry units rtus your better rtus
+adobe flash required a dps remote telemetry unit real-time analog gauge remote telemetry units rtus your better rtus like the netguardian series are
+either a dial-up connection or a serial transport connection instead of lan a remote telemetry unit rtu that supports dial-up connectivity would be a good solution for this
+charge at the field when needed in about 15 minutes since i also have telemetry for receiver voltage and battery capacity consumed for each flight pack i don t
+to check my a123s with a meter between flights even before i had the telemetry it was a pretty simple matter to figure out how many flights i could
+reasons i use a123s for everything jeti ds16 all jeti receivers have telemetry for receiver voltage and received signal strength also the central box similar
+which i use in my giant scale planes also provides battery sharing and telemetry for voltage current and capacity for both receiver battery inputs in addition to receiver
+for any of the conditions that it monitors as well as allowing you to feed telemetry info into mixes etc useful for example to use telemetry from an airspeed
+you to feed telemetry info into mixes etc useful for example to use telemetry from an airspeed indicator to adjust gyro gain so you can have the optimum gyro
+same cell count and mah rating jeti ds16 all jeti receivers have telemetry for receiver voltage and received signal strength also the central box similar
+charge at the field when needed in about 15 minutes since i also have telemetry for receiver voltage and battery capacity consumed for each flight pack i don t
+to check my a123s with a meter between flights even before i had the telemetry it was a pretty simple matter to figure out how many flights i could
+now mainly concerned with ariss operations aboard the international space station the ao-40 telemetry archive was updated on a nearly daily basis the command team members were emailed
+cubesat with a mode v/u inverting linear transponder cw beacon and a digital telemetry downlink the transponder downlink frequencies will be 435200 mhz 435250 mhz with an
+linear transponders with power output of 100 mw 100 mw ax 25 4800 baud gmsk telemetry and 50 mw cw beacons frequencies for these two satellites have not yet
+american univeristy of sharjah aus carrying a funcube mode u/v linear transponder and telemetry downlink as well as the u s naval academy satellite lab s qikcom-2
+oct 10 when peak friction reaches 500 watts which will be noticeable on the perigee telemetry transponder performance and satellite visibility should be exactly as they have always been
+are the days when you have to go to the nwac site to decipher the telemetry data for crystal now you can see exactly what s going on here in
+i didn t look at the display when flying but now that i have dsmx telemetry i find myself wanting to get it setup to read it easier in a glance
+on an internet of things iot proof of concept which involved sending device telemetry into azure to be shaped enriched materialized into different data formats and then
+transmitter is included for reliable running and ease of use it features an audible telemetry warning so that if the boat battery is running low on power the transmitter
+and various landing prediction and flight control values there was quite a lot of telemetry to send so i opted for a 140 bytes/second lora mode for transmission
+did i noticed that the rtls1 position wasn t updating a quick check of the telemetry showed that it had stopped at about 12km altitude which was a very strong
+these items usually trigger some quests where you have to kill several enemies with a telemetry effect on and reward you with 200 points per turn your next step
+your next step is to get 100 hand cannon kills with a primary telemetry consumable active the last step is to receive 10 weapon parts from dismantling
+and conditional gene knockout/knockdown chemogenetics dreadds intracranial manipulations and electrocardiogram telemetry as well as behavioral assessments of reward mood cognition and nociception
+and use of data gathered from overhead and airborne imint and sigint collection systems telemetry intelligence telint is sometimes used to indicate data relayed by weapons during tests
+very frustrating still light years better than w10 or the other recently telemetry patched microsoft oses hello buck i agree with your comments about
+in view of the present application of remote sensing technology in engineering siting and route selection in china the necessity and efficiency of that is addressed in this paper
+finally it is believed that remote sensing technology can be widely used in engineering surveying especially in the development of west china a potential big market
+the article introduces briefly several actual projects completed in recent years concerned with the application of remote sensing on planned railway geological surveying and illustrates the function of applying remote sensing technology
+a discussion on the hydrogeophysical remote sensing combined exploration scheme
+agriculture and resources inventory surveys through aerospace remote sensing
+telemetry is common and can be used to remotely monitor the system status
+the telemetry system is a data logger that records data over several days
+intelligence information gathered from communications intelligence or electronics intelligence or telemetry intelligence
+we should be receiving telemetry now sir
+the construction of an slbm test site with underwater communication and observation facilities and land-based missile tracking and telemetry facilities was finished in the early1980s
+advanced students will have the opportunity to participate in the remote sensing survey of another area in northport harbor
+these high-resolution remote sensing survey instruments include a magnetometer
+on 2 june toyota will launch an exciting new telemetry recording device called the sports drive logger
+which i use in my giant scale planes also provides battery sharing and telemetry for voltage
+i didn t look at the display when flying but now that i have dsmx telemetry i find myself wanting to get it setup to read it easier in a glance
+it hasn t shown up on long-range sensors or subspace telemetry
+nasa received kelly s last telemetry at 0922 hours october 19 2032
+i think i ve got ta go check the telemetry readings on uh practice
+we re starting to receive telemetry
+you ve got to monitor the telemetry
+but until then it should transmit telemetry
+access data banks global intelligence networks satellite telemetry
+telemetry coming through is confusing
+the telemetry probe sir there s no signal from it now
+something must have gone wrong with our telemetry
+and in the short term sans science giving us a remote detection capability
+nothing in physics rules out remote detection of brain activity
+if that s the case then it s not a remote detection tool rather something locally
+where she can do planetary science but also astrophysics and remote sensing
+spectral and remote sensing analysis of the core of jupiter indicates that it is made of liquid metallic hydrogen
+in conjunction with the great data gathering capabilities and analytical power of remote sensing and geographic information systems
+remote sensing technology enables the detailed observation of virtually every aspect of our planet s surface
+remote sensing and geographic information system gis technologies have been extensively applied
+a well-equipped remote sensing and gis computer laboratory will be established in the regional capital trinidad during this year
+that remote detection prompted further investigation which led to the megatsunamis detection
+describe an algorithm for automating remote detection of those bugs in client-server software
+in order to determine if remote detection and identification of birds can address these shortcomings
+another experiment detailed in this reference involved the remote detection of methane concentrations of 2 to 4 ppm
+we already had the detection when you login but remote detection is so much nicer from an enterprise perspective
+the second type will be dedicated to remote detection of trace amounts of illicit drugs
+this monitor pairs with any pse500 series sensor for the remote detection and display of general fluid pressures up to 10 mpa/1450 psi
+probably to avoid remote detection with a port scanner as well as to simplify the flow of the programs
+by testing these advanced remote detection technologies exxonmobil aims to improve upon current detection systems for identifying marine mammals
+remote sensing data provided by planet s satellites has given us a huge advantage in agricultural
+they will use a number of tools with remote sensing and gis becoming increasingly important
+increasingly in gis and remote sensing will find their employability is much higher than those who do not
+courses in gis geospatial science and remote sensing should be prioritized in most cases
+light detection and ranging is active remote sensing
+this means lidar is an active remote sensing system
+users were able to connect remote sensing with the power of gis mapping
+you really need boots on the ground so you can combine the remote sensing information with the actual field work
+remote sensing solutions provide an ideal tool for government users to monitor the locations
+combining remote sensing and spatial science with landscape and ecological research
+remote sensing and sophisticated imaging software add energy and excitement to the subfield
+headway alert feature provides long-range sensing to help the driver maintain a safe following distance
+bulky scanning lidars with high resolution and long-range sensing in a small and robust package
+the new sensor uses patented technology to provide long-range sensing capability
+unfortunately this significant book regarding long-distance sensing came out during the emergencies of world war ii
+the remote survey form and facilities request form should be used as a guide
+this can be accomplished by cloning the remote survey while on the my surveys tab
+imagery is enabling us to do things we never could have done with legacy remote sensing data
+a remote survey or venue survey is generally completed far in advance of the event
+you really need boots on the ground so you can combine the remote sensing information with the actual field work
+it provides links to live seismic data current telemetry status and general and detailed information on the liss
+intelligence derived from the interception and processing and analysis of foreign telemetry
+someone intentionally got into our telemetric server and crashed the satellite
+it was also possible to measure the instantaneous gravitational force using an accelerometric transducer placed near the box with telemetric data transmission
+intelligence information gathered from communications intelligence or electronics intelligence or telemetry intelligence
+the central water commission of india demonstrated the acoustic doppler current profiler that collects data on the flood level and discharge of the river and transmits that data through a telemetry system to servers for flood analysis and decision-making
+the construction of an slbm test site with underwater communication and observation facilities and land-based missile tracking and telemetry facilities was finished in the early 1980s
+telemetry you use any of our open source software we may collect bandwidth upload and download speeds the amount of free and used storage space on your device and other statistics about your device
+the vertical video camera 88 and the telemetry sensor 90 acting as an altimeter produce information that is applied to a processor circuit 92 that also receives data from the gyros 64 in order to apply the necessary corrections to the estimated horizontal speed as given by the circuit 94
+i manage satellite telemetry systems
+four slim phase 4 telemetry codes
+last telemetric information received on 29 november 1990 on orbit no 5317
+within the framework of the project new telemetric networks are to be installed in priority catchment areas
+someone intentionally got into our telemetric server and crashed the satellite
+in contrast to the previous start treaty none of the limits in the new instrument require the use of telemetric information for monitoring
+nevertheless an exchange of telemetric information on a set number of icbm and slbm launchers is planned to promote confidence-building and transparency
+to promote openness and transparency the parties will also conduct an annual exchange of telemetric information on up to five icbm or slbm launches as chosen by the party conducting the launches
+the third issue of concern to our representatives is reflected in the many serious and complex questions they have been asking about the planned cooperation in exchanging telemetric information
+the telemetric data analysis and laboratory tests showed that the failure was caused by a short circuit in the solar array and it was decided that attempts to reactivate the spacecraft would be made periodically
+the telemetry system is a data logger that records data over several days
+telemetry is common and can be used to remotely monitor the system status
+the next scheduled command and telemetry testing will be in early 2009 after the integration of the next three flight instruments to the npp spacecraft
+the sr-5124 is the first sigint system that integrates elint and comint that captures radio satcom telemetry and radar signals simultaneously and synchronously
+the l-3 team which includes l-3 s telemetry east and ball aerospace businesses in addition to l-3 is will also integrate new communications and telemetry technology on the aircraft
+we are looking for dental scanners intraoral scanners dental or biomedical milling machines medical 3d scanners sensors for non-invasive wireless or telemetric diagnostic methods
+sean dent is a second-degree nurse who has worked in telemetry orthopedics surgical services oncology and at times as a travel nurse
+most of our packages offer included minutes except for telemetry and casualsms that offer included sms s instead of talktime
+the stewards heard from the driver and team representatives and studied telemetry evidence that showed the reason why the car was stopped
+firstly the removal of on-board telemetry instrumentation has reduced the tejas mk1 lsp-7 s weight by 400kg
+the center images include the telemetry brust replacements with remaining bursts blacked out
+physiological analyses were conducted on the coho populations used in the telemetry studies for a baseline to help understand the migration and survival results
+through this long journey the crew has a great ally the telemetry
+it can be found in modified form in high-speed teletype facsimile missile-guidance telemetry and some space satellite communication
+jinja inky reported wore a radio telemetry collar placed there some time ago by the serengeti research institute and long since non-operational
+he is fortunate that he did not get fired for tweeting mclaren telemetry
+what mattered most was the vital telemetry on the status of the astronauts and the lm systems
+telemetry based insurance premiums have been around in the united states since at least 200
+our telemetry data shows that firefox for android is taking several seconds up to 10
+what has the forensic dna test results on these telemetry units revealed
+lewis hamilton is not a newcomer to f1 and posting telemetry was not a novice s mistake
+water level and flow monitoring techniques will also be discussed in addition to telemetry and data transmission
+i might try using them for telemetry and force-feedback information for a larger version of the arduino wifly mini
+chris muller chris is sirtrack s wildlife telemetry consultant for australia and the pacific
+you presumption that you know the details and ramifications of the telemetry incident belie your credibility
+this water column height is communicated to the surface buoy by acoustic telemetry and then relayed via satellite to the tsunami warning centre
+out on track the engine s health is analysed in real time by telemetry engineers when the car is running
+the panel did not designate which specific components of telemetry should be used as triage criteria as additional evaluation of available data is needed
+the telemetry did show that it sensed a bit of titan scattered light during descent
+incidentally i found the trace fascinating and i would like to see more telemetry published as a matter of course in f1 as i think that it can explain
+i respect him for speaking his mind but the telemetry tweet was a bit too far found it interesting yes but then so did
+processor speed isn t really the issue with a telemetry system
+the software appears to be what ciq says it is a telemetry gathering set up to monitor service quality for operators
+it just a guess but maybe what james said is that the telemetry stream contains 750giga bytes
+was hamilton s ill-advised decision to post a picture of confidential mclaren telemetry on the social networking site twitter on the morning of the belgian grand prix
+so matt webster would ping their telemetry and find out that they d been playing for 870 hours
+after several hours of deliberation during which telemetry was studied and red bull racing stated their case the official decision was handed
+we did this using telemetry every 15 minutes
+did you ever get your telemetry to work i ended up flipping my wires 180 degrees
+the missile was tracked by radar telemetry stations located along the coastline
+telemetry provides no information on any particular reason why we fully analyze the engine to find
+strangely the article never features note telemetry information only after any of these responses
+telemetry research on habitat use is definitely needed
+originally only voice communications and spacecraft and biomedical telemetry were to be received
+switches grade crossings telemetry systems trestles culverts have to be repaired periodically
+recording over 500 different parameters and it streams live data via telemetry back to the pit garages
+that much is certain however our monitor and telemetric systems can not get through
+fundamentally there s nothing wrong with gps-based telemetric data setting insurance rates
+internet based cost-effective online monitoring grundfos remote management is an internet-based telemetric system that provides operators with timely information
+grundfos remote management is an internet-based telemetric system that provides operators with timely information
+with a wireless telemetric system monitoring and control tasks can be performed from a pc anywhere anytime
+his telemetry staggered along half a dozen axes and fell towards luminous asymptotes
+it automatically sends telemetry about requests and response times to the portal
+the sandwich will return to earth and bring back telemetry data
+the telemetry team left 1064 and will return tomorrow at 9am
+a modbus master can communicate with up to 247 modbus remote telemetry units rtus or intelligent electronic devices ieds
+this data consists of images gps data telemetry and command and data handling logs
+in the non-federal exclusive sub-bands temporary fixed geophysical telemetry operations are also permitted on a secondary basis
+i ve also written a more flexible viewer script for nwac telemetry which uses this code and has numerous options for concatenating all sites
+the telemetry system is a data logger that records data over several days
+telemetry is common and can be used to remotely monitor the system status
+the next scheduled command and telemetry testing will be in early 2009 after the integration of the next three flight instruments to the npp spacecraft
+the construction of an slbm test site with underwater communication and observation facilities and land-based missile tracking and telemetry facilities was finished in the early 1980s
+the sr-5124 is the first sigint system that integrates elint and comint that captures radio satcom telemetry and radar signals simultaneously and synchronously
+he meant only those that the telemetry allowed him to see
+we are looking for dental scanners intraoral scanners dental or biomedical milling machines medical 3d scanners sensors for non-invasive wireless or telemetric diagnostic methods
+preventive measures include using telemetry to listen for the predators presence
+the vehicle is fitted with a telemetry system that provides a data link to a control centre
+sn388 telemetry instrument is one of complete seismograph in the world
+an essential part of bio-telemetry encompasses the transmission of data
+smart antenna technology will be widely used in telemetry systems in the near future
+the vehicle is fitted with a telemetry system that provides a data link to a control centre
+introduced are the design scheme and realization of modem in high speed cable telemetry system
+this method has been used to process telemetry signals and a satisfactory result has be gotten out
+used for telemetry observation of the fruit trees should not be flowering orchard nearby grazing and bees
+perhaps the most important features of these telemetry systems though are fault diagnosis and timely servicing
+describes a new tipping bucket type telemetry runoff flow-meter with automatic measure amount and time of runoff
+it uses the mq telemetry transport  mqtt  protocol to enable you to monitor enterprise sensors using ibm mq technology
+the unethical abuses of power by individuals in charge of biomedical telemetry are incomprehensible to normal people
+i became part of the information processing division working for the data acquisition and telemetry analysis department
+they test using intricate telemetry systems which relay extensive data from every important part of the car to computers
+program officials will continue to evaluate system performance based upon telemetry and other data obtained during the exercise
+test result explains that design of telemetry system is reasonable and have provided important parameters of combat missile
+code synchronization and frame synchronization of the telemetry data play an important role in the telemetry data processing system
+among other experiments the agency is using amazon s servers to process vast amounts of telemetry data coming from the rovers on mars
+the particularity of rang test bring the diversification and uncertainty in function requirement of telemetry data transmission software
+you would think they d want a launch in daylight clear skies to have a visual record to compliment telemetry should there be an anomaly
+one of ibm s many messaging middleware technologies is mq telemetry transport  mqtt a protocol supported by the lotus expeditor micro broker
+this paper explores a new plan by means of the tp801-z80 kit to establish the telemetry system for measuring the storage of light oil tanks
+the next scheduled command and telemetry testing will be in early 2009 after the integration of the next three flight instruments to the npp spacecraft
+this was the first time satellite telemetry has been used to track bats in asia
+unfortunately there was no signal no information no warning on the telemetry
+as the link between the operator and uav remote control and telemetry system is an important component part of the uav
+car-racing telemetry began to migrate to other sports a few years ago but mostly to monitor equipment and measure how it is being used
+custom-made by telemetry solutions of concord california it s small enough to attach to a fruit bat for research purposes
+such data logging and telemetry have made what used to be more of an art into an exact science
+strain measurements are transmitted to the su ce either by a continuous optical fiber light path or by telemetry of a digitized signal
+the canadian group says their ornithopter actually powered itself through the air and that they have the telemetry data to prove it
+it is a substation of  four remotes one of the telemetry is an important component of the substation automation
+the system water level telemetry device the ground more secure timely and accurate observation underground water sluice wall spaces
+application of this proposed microseism ground telemetry on-line monitoring and prediction of mine water hazards unknown technical ideas
+it has wide applications in the domain of multimedia communication  iatrology police security telemetry and avigation
+the electrical re-fill water telemetry insulation resistance should not be less than 100 megohm
+the data transmitted between uavs and the main station include telecontrol information telemetry information and task sensor information
+developments in electronic sonic and laser technology will provide telemetry that will increase accuracy and timely management response
+transmission quality of pcm telemetry system is related to both the transmitting and receiving equipment of the system
+the hgs then displays telemetry to the pilot over the hud  more on that later  to help him land
+it uses the mq telemetry transport  mqtt  protocol to enable you to monitor enterprise sensors using ibm mq technology
+telemetry screens provide realism with the player having to set items and computer programs to get the crucial go signal
+a downhole electromagnetic telemetry system with an increased data rate is disclosed
+this paper describes the design and application of the satellite telemetry data processing terminal software
+they test using intricate telemetry systems which relay extensive data from every important part of the car to computers
+ultrashort optical pulse finds wide use in telemetry microcosmic exploration and generation of high temperature plasma etc
+simulation results indicate that designed nco is suitable for uav telemetry control system and consistent with theory analysis
+can we determine our position forsythe asked negative sir guidance telemetry and astrogation are still down
+rockets use a system known as telemetry to relay their information to earth
+nissan intends to use telemetry to send information to a global data centre from every leaf sold
+the satellite remote sensing technique plays a significant role in the preliminary phase of city faulted structure telemetry
+then basing on the rational receive of telemetry signal we have educed the numerical value calculating method of antenna covering range
+by analyzing the properties of the telemetry data the strong relativities both in each signal source and among themselves are demonstrated
+the hydrological telemetry system brings significant social and economic benefits in flood control work
+in the end through processing and analyzing a group of actual telemetry vibrational data the efficiency of the method was testified
+perhaps the most important features of these telemetry systems though are fault diagnosis and timely servicing
+if organic heart disease is present or the ecg is abnormal inpatient telemetry monitoring and electrophysiologic studies are recommended
+among other experiments the agency is using amazon s servers to process vast amounts of telemetry data coming from the rovers on mars
+datad provides telemetry data evaluation analysis and accountability for science data received from various satellites
+a downhole telemetry system that transmits a burst-qam uplink signal to the su ce of the well is disclosed
+in this paper the onboard vibration measure system designed for certain telemetry system is introduced
+the latest models are equipped with remote-telemetry features that allow doctors to monitor their operation
+deep research of the basic theory about mc-cdma and remote control and telemetry system hand been done
+smart antenna technology will be widely used in telemetry systems in the near future
+bio telemetry systems that remotely mind read and  mind control have existed for decades
+for one embodiment a telemetry into ce module may receive data regarding the strength of transmitted signals
+chinese scientists have completed the final tests on the rocket and the telemetry system of the rocket carrier and the spacecraft
+pcm-fm telemetry mechanism has been widely used in aerospace telemetry system
+for complex configurations the seismic areal network is a new approach to traditional telemetry
+the main content in this paper are design of sending subsystem under well in well telemetry system
+special tracking and telemetry systems to collect data
+it provides links to live seismic data current telemetry status and general and detailed information on the liss
+intelligence derived from the interception and processing and analysis of foreign telemetry
+someone intentionally got into our telemetric server and crashed the satellite
+it was also possible to measure the instantaneous gravitational force using an accelerometric transducer placed near the box with telemetric data transmission
+intelligence information gathered from communications intelligence or electronics intelligence or telemetry intelligence
+the central water commission of india demonstrated the acoustic doppler current profiler that collects data on the flood level and discharge of the river and transmits that data through a telemetry system to servers for flood analysis and decision-making
+the construction of an slbm test site with underwater communication and observation facilities and land-based missile tracking and telemetry facilities was finished in the early 1980s
+telemetry you use any of our open source software we may collect bandwidth upload and download speeds the amount of free and used storage space on your device and other statistics about your device
+last telemetric information received on 29 november 1990 on orbit no 5317
+within the framework of the project new telemetric networks are to be installed in priority catchment areas
+someone intentionally got into our telemetric server and crashed the satellite
+it was also possible to measure the instantaneous gravitational force using an accelerometric transducer placed near the box with telemetric data transmission
+in contrast to the previous start treaty none of the limits in the new instrument require the use of telemetric information for monitoring
+nevertheless an exchange of telemetric information on a set number of icbm and slbm launchers is planned to promote confidence-building and transparency
+to promote openness and transparency the parties will also conduct an annual exchange of telemetric information on up to five icbm or slbm launches as chosen by the party conducting the launches
+the third issue of concern to our representatives is reflected in the many serious and complex questions they have been asking about the planned cooperation in exchanging telemetric information
+the telemetric data analysis and laboratory tests showed that the failure was caused by a short circuit in the solar array and it was decided that attempts to reactivate the spacecraft would be made periodically
+added tcp protocol support for v2 telemetry
+mixer is the istio component responsible for providing policy controls and telemetry collection
+requires wifi telemetry adapter
+improved telemetry collection for blocked and pass through external service traffic
+titan telemetry 24 bit raw data channel support
+improves continuous delivery testing at scale and telemetry
+install istio in your cluster with your desired telemetry addons
+an improved ami code being suitable for telemetry system is proposed
+it uses our dependable trackfi wireless telemetry system together with advanced proprietary software to guarantee perfect synchronisation even along complex paths and at varying speeds
+a separate telemetry system is required to track receive and record this data
+and other electrical noise sources that affect the telemetry system
+100% reliable data transfer to the base station is essential having evaluated existing solutions on the market and found them lacking ab dynamics developed the trackfi wireless telemetry system
+the dispatch display for the pcm data is a function of demodulation and processing unit in the telemetry system
+in this manner each transmitter in the telemetry system may transmit larger volumes of sensor data than could be transmitted through slip rings
+ab dynamics driverless test system uses proven driving robot actuators coupled with a dependable trackfi telemetry system and has been used by major oems for performing misuse tests for several years
+although the launch vehicle successfully flew its pre-planned flight path data collection was unsuccessful owing to a telemetry system failure during its early flight phase
+traveling wave tube mini-sar atmospheric monitoring meteorological radar marine remote sensing field uav application system
+uav photogrammetry and remote sensing monitoring gis project
+it had its own constellations of communications and remote sensing satellites
+ecological monitoring natural resources mapping remote sensing and early warning systems
+application of remote sensing technology in river basin management in the philippines
+research advances in simulating regional crop growth under water stress by remote sensing
+developing remote sensing and improving thematic mapping
+jointly funded remote sensing cooperation projects were initiated in 2004
+philippine initiatives in the application of remote sensing technology
+but it is much bigger and is designed to go into a lower orbit with the most powerful cameras and remote sensing instruments ever sent to a planet
+fixed range ultra-high speed response remote sensing
+william t buttler et al remote sensing of three dimensional winds with elastic lidar
+during an eruption remote sensing and satellite imagery can help identify a plume s composition and levels of volcanic gasses
+the radar data will be particularly useful for monitoring the mount pinatubo area during the typhoon season through cloud cover which adversely affects optical remote sensing sensors
+remote sensing data is generated using sensors such as cameras scanners radiometers and radars that are mounted on aircraft and satellites
+with the development of remote sensing technology and the appearance of the remote sensing device for plenty of remote sensing data compression of hyperspectral images is of more and more importance
+all models feature remote sense on v1 and v2 to provide independent compensation of power cable losses
+remote sense on 1st and 4th output
+support remote sense compensation function which can improve measurement accuracy
+this design also includes enable remote sense and output overvoltage features
+in remote sense the voltage is measured at the device under test eliminating any voltage drops due to lead resistance
+processor supply with i2c compatible interface and remote sense
+remote sense provided on all models open sense lead protection built-in
+power ok signal remote inhibit and remote sense
+remote sense ground not used pin 12 must be connected to pin 13 for optimum output voltage accuracy
+remote sense picture and digit processing
+the remote sensing authority of the sudan offered to coordinate such a task force
+keynote addresses were made by the head of the international relations department of esa and the director of the department of resource surveys and remote sensing of kenya
+it was co-sponsored by the european space agency esa and the national remote sensing agency nrsa of india
+the sudan remote sensing authority was leading the agencies utilizing remote sensing technology
+rs485 bus interface facilitating system expansion realizing telemetering and remote control high anti-electromagnetic interference capability
+if used on a rotation axle a coupler is often required such as a rotary transformer slip ring or telemetering equipment to provide voltage and to obtain signal
+software reuse can lower the price of software development in the hydrological telemetering system and it can promote the standardization and reliability of software development
+statistical analysis and application study of telemetering vibration data
+telemetering for consumption and demand
+telemetering and telecontrol ground equipment
+the accident of power plants when teleindication telemetering sequence of event recorder soe reaction agc control and dispatching automation equipment operation
+electric energy telemetering system of huizhou power supply branch
+obyekt 447 which featured a new fire control with a laser telemeter and which was able to fire missiles through the gun
+what is a telemeter
+the design of the software platform for real-time monitoring of satellite telemeter data
+the first digital orthographic telemeter
+note the blue telemeter scale
+development of ecg telemeter monitoring system
+the longest communication distance from the telemeter to beat-exchanger station and from heat-exchanger station to the main computer is 5 km
+it has wide applications in the domain of multimedia communication iatrology police security telemetry and avigation
+the telemetry system is a data logger that records data over several days
+telemetry is common and can be used to remotely monitor the system status
+we should be receiving telemetry now sir
+it provides links to live seismic data current telemetry status and general and detailed information on the liss
+intelligence derived from the interception and processing and analysis of foreign telemetry
+using an accelerometric transducer placed near the box with telemetric data transmission
+repeat i have good telemetry
+manchek showed me the telemetry reports
+his shouldn t be too difficult a task for the young man who loves reading and analyzing telemetry data
+i manage satellite telemetry systems
+all telemetry verified and transmissions
+it had its own constellations of communications and remote sensing satellites
+how can remote sensing data and ai help financial services
+some other projects aim to assess desertification using remote sensing tools
+the committee emphasized the importance of remote sensing technology for sustainable development
+carrying out earth remote sensing work in the following areas
+the grant has been instrumental in promoting the application of remote sensing technology within the country
+remote sensing shall promote the protection of the earth s natural environment
+managing the balance between farmland and urban areas using remote sensing
+lack of reliable and efficient access to information on remote sensing developments
+considerable improvement has been achieved in the quality of civil remote sensing satellites
+runs two nationwide projects in the field of remote sensing
+the institute offers courses in practical application of remote sensing
+a remote sensing big data service platform have been built in hainan
+it was noted that radar and remote-sensing technologies could complement each other
+developing remote sensing and improving thematic mapping
+outside expertise was sought in remote-sensing methodology only
+calibration and validation of remote-sensing results are essential
+remote sensing applications for regional disaster information network
+the only possibility left was to use satellite remote-sensing images
+it is also continuing to develop the use of remote sensing in environmental research
+seeing a better world global development trends in remote sensing
+remotely sensed data have also been used in weather and severe storm forecasting
+natural resource management using satellite remote sensing
+ssc also offers a complete remote sensing programme
+remote sensing and satellite data collection is one example
+remote sensing satellite missions are defined and implemented on the basis of national needs
+remote sensing is watching and listening to the actions of the enemy from a distance
+remote sensing the measuring of electromagnetic radiation
+remote sensing activities are supplemented by air and ground measurements
+several research studies using data from various remote sensing satellite systems have been carried out
+a remote sensing course has been offered in many universities in thailand
+for the purposes of these principles with respect to remote sensing activities
+it had not however developed any in-house remote sensing capabilities
+basic remote sensing and gis education had also found its way into secondary school curricula
+satellite remote sensing provides another important source of spatial data
+but luckily the remote cameras proved to be more successful
+maps developed from satellite remote sensing are used to support sustainable development
+it was widely acknowledged that remotely sensed data were useful for a large range of applications
+telemetry any chance this is instrumentation failure
+remote sensing data per se had little commercial value
+well i m not sure we don t have the telemetry for the suit
+processes remote sensing and other geospatial data
+scientific studies and research concerning remote sensing
+hence ground-truthing may be required in combination with remote sensing
+new programmes are being planned in the fields of satellite remote sensing and space science
+remote sensing of the earth is one of the main thrusts of ukraine s space activities
+it was pointed out that a lot of progress had been made in the use of remote sensing for responding to disasters
+this runs counter to the enormous benefits such as precision provided by remote sensing technologies
+in 2010 work continued on developing the main earth remote sensing information centre
+education played a critical role in ensuring the widespread application of remote sensing
+unfortunately developing countries often do not have access this very costly remote sensing technology
+in order to take advantage of remote sensing data we must be able to extract meaningful information from the imagery
+the project brings remote sensing awareness and education into schools
+he stressed the need to utilize earth observation particularly remote sensing to provide benefits for society
+because of remote sensing techniques this cultivation can be monitored with considerable accuracy
+effective international cooperation in the use of space and remote sensing technology would be promoted
+remote sensing was a powerful tool for that purpose
+one application of remote sensing would be to support environmental impact analyses of a project
+police around the world are starting to use remote sensing and big data to anticipate crime
+china s commitment in the field of remote sensing is designed to satisfy the needs of national economic construction
+society benefits considerably from the use of satellite remote sensing
+most satellite remote sensing data are readily available in digital format
+we can t shut down the comms because we ll lose telemetry and guidance
+remote sensing data could be a very important source of information for that purpose
+remote sensing technologies had been developed mainly in developed countries
+national programmes and projects in applications of remote sensing data were also featured
+the evolution of this project could provide low-cost remote sensing benefits to developing countries
+during the working group sessions the participants discussed the issues associated with microwave remote sensing
+development of domestic capabilities in the field of the use of remote sensing techniques
+access to remote sensing data and the capacity to use remote sensing technology must be expanded
+we hold a leading position in the airborne and remote sensing survey and design market in the prc
+there are 20 specialized and 15 regional remote sensing centres in china
+however the collection of additional remote sensing images is unlikely to be needed for this project
+reference was made to the user requirements for data on africa obtained using remote sensing
+nevertheless there is a need for guidance to ensure comparability of estimates when remote sensing is used
+remote sensing is the science of acquiring information from a place or area without having an actual physical presence
+it can translate data from maps or remote sensing instruments into images
+in particular applications in the field of satellite remote sensing have proved to be of crucial importance to my country
+the study therefore recommended that those countries be provided with the necessary aid to establish remote sensing systems
+these were advanced courses targeting integration of remote sensing and gis
+this would contribute to the practical application of remote sensing data as well as to the upgrading of research in the region
+remote sensing data have played a critical role in enabling the department to support international disaster aid efforts
+it was recognized that remote sensing methods were indispensible for addressing water management in general and water-related disasters in particular
+the methods of aerial and satellite remote sensing were applied to discover the damaged forest areas promptly
+remote sensing of soil carbon storage is critical to understand climate chan
+the use of remote sensing for environmental monitoring and management has increased in recent years
+the process of updating the principles of satellite-based remote sensing of the earth should begin
+the network consists of the major institutions in the region working in marine sciences and satellite remote sensing
+it was noted that many countries had made progress in earthquake research using remote sensing technologies
+many of the indicators are amenable to remote sensing and thus are depicted on satellite images
+the central element of all those studies is a series of remote sensing images providing visual evidence of environmental change
+remote sensing applications for sustainable development
+the final presentation described how desertification could be investigated by using remote sensing techniques integrated into gis
+the concept took into account the lessons learned from previous pre-operational remote sensing projects
+the areas of cooperation include space and earth science study satellite manufacturing satellite communication and remote sensing
+however early-warning systems using remote sensing and satellite technology have now stopped such happenings
+a number of these institutions are also contributing their expertise to the implementation of projects that require remote sensing input
+in this manner remote sensing has helped to save many lives by providing warnings and allowing the timely evacuation of people and livestock
+environment forestry agriculture and cartography are the main fields where remote sensing is applied together with geoinformation
+it was recommended that satellite remote sensing should be increasingly used
+remote sensing in the field of mining would result in significant savings in exploration campaigns
+users have to compromise to fit their information requirements to the parameters of available remote sensing data
+he frequency of their occurrence might be in cycles of decades or centuries rendering remotely sensed historical observations irrelevant
+a wide variety of remote sensing projects transferred from other doi bureaus
+two often expressed concerns of would-be operational users of remotely sensed data would be resolved in the near future
+it is imperative to define fully the concept of remote sensing activities
+the budget for the analysis of remote sensing data has been reduced
+ocean monitoring by means of satellite remote sensing began in the southern regions
+a doctoral thesis on remote sensing and the developing countries is currently under way
+china s commitment in the field of remote sensing is designed to satisfy the needs of national economic construction
+the evolution of this project could provide low-cost remote sensing benefits to developing countries
+development of domestic capabilities in the field of the use of remote sensing techniques
+ground-based measurements can be used to verify interpretation of land cover and area change data from remote sensing
+it also cooperated with the russian federation on space and aviation technology and remote earth sensing
+has been decided to develop space facilities gradually within the framework of a prospective remote sensing system
+the first presentation focused on the use of remote sensing and gnss in precision agriculture
+the advantages of remote sensing in terms of costs as compared to field measurements were mentioned in particular for countries with large forest cover
+a review of recent developments in marine science especially oceanography and remote sensing was offered by some delegations
+remote sensing technology is also well suited to the dynamic nature of outbreaks
+we have many of the basic tools required to harness remote sensing for monitoring and mitigating drought
+they are being used for everything from environmental sensing and fundamental biology research to testing new spaceflight systems
+the establishment of the national centre for remote sensing in jos has fuelled the interest of the academic community in the discipline
+a number of these institutions are also contributing their expertise to the implementation of projects that require remote sensing input
+this design also includes enable remote sense and output overvoltage features
+remote sensing survey is used in more and more places
+remote sensing survey technology greatly facilitates human beings and reduces the workload
+remote sensing technology is becoming more and more mature
+remote sensing survey technology is rarely seen at ordinary times and mostly appears in some more important projects
+geological remote sensing detection is a method of comprehensively applying modern remote sensing technology to study geological laws and carry out geological survey and resource survey
